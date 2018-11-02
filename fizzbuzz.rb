@@ -5,4 +5,3 @@ def fizzbuzz(x)
   if x % 3 == 1 # if the number int is divisible by 3
     return "Fizz" # Go fizz
 end
-
